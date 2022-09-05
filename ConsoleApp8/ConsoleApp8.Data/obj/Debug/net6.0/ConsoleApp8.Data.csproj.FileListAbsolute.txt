@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\bin\Debug\net6.0\ConsoleApp8.Data.deps.json
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\bin\Debug\net6.0\ConsoleApp8.Data.dll
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\bin\Debug\net6.0\ConsoleApp8.Data.pdb
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\bin\Debug\net6.0\ConsoleApp8.Core.dll
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\bin\Debug\net6.0\ConsoleApp8.Core.pdb
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.csproj.CopyComplete
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.dll
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\refint\ConsoleApp8.Data.dll
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ConsoleApp8.Data.pdb
+C:\Users\HP\Desktop\PypTasks\ConsoleApp8\ConsoleApp8.Data\obj\Debug\net6.0\ref\ConsoleApp8.Data.dll
